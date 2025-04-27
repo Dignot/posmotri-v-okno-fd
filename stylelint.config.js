@@ -11,7 +11,6 @@ module.exports = {
     'no-duplicate-selectors': true,
     'no-invalid-position-at-import-rule': true,
     'alpha-value-notation': 'number',
-    'color-function-notation': 'modern',
     'color-hex-length': 'short',
     'length-zero-no-unit': true,
     'function-url-quotes': 'never',
@@ -24,6 +23,5 @@ module.exports = {
     'rule-empty-line-before': 'always',
     'at-rule-empty-line-before': 'always',
     'selector-class-pattern': null,
-    'font-family-name-quotes': 'always-where-recommended',
   },
 };
