@@ -190,9 +190,10 @@ ol {
 }
 
 .search-form__fieldset-title {
-  font-size: 17px;
-  line-height: 99%;
-  margin-bottom: 7px;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 400;
+  margin-bottom: 8px;
 }
 
 .search-form__textfield {
@@ -207,6 +208,7 @@ ol {
   width: 225px;
   font-size: 18px;
   font-family: 'Fira Sans Condensed', sans-serif;
+  padding-top: 2px;
 }
 
 .search-form__textfield:active {
